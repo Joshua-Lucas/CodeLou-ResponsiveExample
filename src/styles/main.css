@@ -1,7 +1,9 @@
 /* Variables */
 
 /* Styles */
-
+header {
+  text-align: center;
+}
 main {
   margin-top: 5rem;
 }
